@@ -1,7 +1,7 @@
 {
   "packageName": "com.xautradingdesk.mobile",
-  "versionCode": 15,
-  "versionName": "2.4.4",
-  "apkUrl": "https://github.com/BassSG/XAU_TRADING_DESK/releases/download/v2.4.4/XAU-Trading-Desk-Standalone-v2.4.4.apk",
-  "sha256": "1e38f58b6a7f1c2f791003953005b54e98e9ed1a82e7b06369be9666fac3d32d"
+  "versionCode": 16,
+  "versionName": "2.4.5",
+  "apkUrl": "https://github.com/BassSG/XAU_TRADING_DESK/releases/download/v2.4.5/XAU-Trading-Desk-Standalone-v2.4.5.apk",
+  "sha256": "2cef7e83c8340e683e99df1566ac1ec4f7d15a272ba4d9241b4eeb4e8e1bb1a5"
 }
